@@ -1,0 +1,9 @@
+5 10 55 8
+John
+Jack
+Diana
+Dave
+Joanna
+Janice
+Jackson
+Aang

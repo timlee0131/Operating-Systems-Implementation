@@ -1,0 +1,4 @@
+# Operating Systems Algorithm Implementation
+### Part of CS7343 Operating Systems course at Southern Methodist University
+
+Most of the projects in this directory use multithreading and cache replacement algorithms to solve various problems. For example, in one project, I simulate an N-player game with threads $1..n$ representing players $1..n$ that engage in a game simultaneously. The objective of simulating such games and scenarios is to implement multithreading or caching algorithms in a safe manner that avoids deadlock and correctly identifies appropriate threads as winners and losers in simultaneous, parallel computing design
